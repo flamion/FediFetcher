@@ -1,0 +1,12 @@
+{
+  "server": "mastodon.dragoncave.dev",
+  "home-timeline-length": 500,
+  "max-bookmarks": 500,
+  "max-favourites": 100,
+  "max-followings": 80,
+  "max-followers": 80,
+  "max-follow-requests": 80,
+  "from-notifications": 1,
+  "reply-interval-in-hours": 0,
+  "http-timeout": 60
+}
