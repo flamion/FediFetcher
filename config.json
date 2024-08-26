@@ -8,5 +8,6 @@
   "max-follow-requests": 80,
   "from-notifications": 3,
   "reply-interval-in-hours": 0,
-  "http-timeout": 60
+  "http-timeout": 60,
+  "from-lists": 1
 }
