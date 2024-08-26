@@ -6,7 +6,7 @@
   "max-followings": 80,
   "max-followers": 80,
   "max-follow-requests": 80,
-  "from-notifications": 1,
+  "from-notifications": 3,
   "reply-interval-in-hours": 0,
   "http-timeout": 60
 }
