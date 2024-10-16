@@ -1,7 +1,7 @@
 {
   "server": "mastodon.dragoncave.dev",
-  "home-timeline-length": 500,
-  "max-bookmarks": 500,
+  "home-timeline-length": 250,
+  "max-bookmarks": 250,
   "max-favourites": 100,
   "max-followings": 80,
   "max-followers": 80,
